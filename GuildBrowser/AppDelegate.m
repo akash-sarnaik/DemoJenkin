@@ -7,7 +7,7 @@
     // Override point for customization after application launch.
     [self customizeAppearance];
     
-    return YE;
+    return YES;
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
